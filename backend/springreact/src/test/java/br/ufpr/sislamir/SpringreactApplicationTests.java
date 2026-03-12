@@ -1,4 +1,4 @@
-package com.example.springreact;
+package br.ufpr.sislamir;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
